@@ -8,3 +8,7 @@ html {
     color:rgb(143, 143, 43);
     text-align: center;
 }
+
+.main-image {
+    border-radius: 8px;
+}
