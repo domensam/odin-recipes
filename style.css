@@ -16,3 +16,8 @@ html {
     margin-right: auto;
     width: 50%;
 }
+
+.description {
+    color:rgb(105, 105, 30);
+    text-align: center;
+}
