@@ -21,3 +21,10 @@ html {
     color:rgb(105, 105, 30);
     text-align: center;
 }
+
+.list {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 40%;
+}
