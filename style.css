@@ -11,4 +11,5 @@ html {
 
 .main-image {
     border-radius: 8px;
+    display: block;
 }
